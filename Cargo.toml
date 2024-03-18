@@ -2,3 +2,4 @@
 members = [
     "app_platform",
 ]
+resolver = "2"
